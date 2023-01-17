@@ -28,6 +28,6 @@
 
 O DevLinks é um agregador de links, reunindo-os em um só lugar.
 
-- [Acesse o projeto finalizado, online](https://gabriellytegon.github.io/devLinks/)
+- [Acesse o projeto finalizado online](https://gabriellytegon.github.io/devLinks/)
 
 ---
